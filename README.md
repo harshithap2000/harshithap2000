@@ -22,6 +22,7 @@
 ### Talk with me:
 [<img align="left" alt="Harshitha P | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harshitha P | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="Harshitha P | Instagram" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png" />][instagram]
 <br />
 
 ### Languages and Tools:
