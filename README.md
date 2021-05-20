@@ -23,7 +23,7 @@
 [<img align="left" alt="Harshitha P | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harshitha P | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="Harshitha P | Instagram" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png" />][instagram]
-<a target="_blank" href="mailto:harshitha.prakash22@gmail.com"><img align="left" alt="Harshitha P | Email" width="22px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto:harshitha.prakash22@gmail.com"><img align="left" alt="Harshitha P | Email" width="25px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 [<img align="left" alt="Harshitha P | Discord" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/discord.svg" />][discord]
 <br />
 
