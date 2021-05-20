@@ -13,9 +13,9 @@
 - 🔭 I’m currently working on a ML project 
 - 🌱 I’m currently learning Cloud Computing
 - 💬 Ask me about Soft Skills
-- 📫 How to reach me: [@harshithap22](https://twitter.com/harshithap22);
+- 📫 How to reach me: [@harshithap22](https://twitter.com/harshithap22)
 - 😄 Pronouns: She/Her
-- -📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- -📝 [Resume](https://drive.google.com/file/d/1dIrNWiabQ54FLTKDdqPNiEifl6DstmNt/view?usp=sharing)
 - ⚡ Fun fact: I speak multiple languages.
 
 
@@ -23,9 +23,6 @@
 [<img align="left" alt="Harshitha P | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harshitha P | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
 [<img align="left" alt="Harshitha P | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-
-
-
 <br />
 
 ### Languages and Tools:
