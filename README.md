@@ -6,8 +6,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/harshithap2000/harshithap2000/blob/main/code.gif" width="500" height="320" />
 
-
-An aspiring software engineer with a strong foundation in computer science, seeking to leverage my skills in machine learning, big data, and software development to contribute to innovative projects and solve complex problems in a dynamic organisation.
+👋 Hey there! I'm Harshitha, a passionate software engineer on a mission to revolutionize the world through cutting-edge technology and innovative problem-solving. With a mind as curious as a cat and a coding prowess as sharp as a ninja, I'm always ready to tackle any challenge that comes my way! 😸
 
 🎓 Education:
 - Master of Computer Science, The University of Adelaide (2023-2025)
