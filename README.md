@@ -10,57 +10,22 @@
  <img align="right" alt="GIF" src="https://github.com/harshithap2000/harshithap2000/blob/main/code.gif" width="500" height="320" />
 
 
-- 🔭 I’m currently working on a ML project 
-- 🌱 I’m currently learning Cloud Computing
-- 💬 Ask me about Soft Skills
-- 📫 How to reach me: [@harshithap22](https://twitter.com/harshithap22)
-- 😄 Pronouns: She/Her
-- -📝 [Resume](https://drive.google.com/file/d/1dIrNWiabQ54FLTKDdqPNiEifl6DstmNt/view?usp=sharing)
-- ⚡ Fun fact: I speak multiple languages.
+An aspiring software engineer with a strong foundation in computer science, seeking to leverage my skills in machine learning, big data, and software development to contribute to innovative projects and solve complex problems in a dynamic organisation.
 
+🎓 Education:
+- Master of Computer Science, The University of Adelaide (2023-2025)
+- Bachelor of Computer Science, Nitte Meenakshi Institute of Technology (2019-2023)
 
-### Talk with me:
-[<img align="left" alt="Harshitha P | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Harshitha P | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="Harshitha P | Instagram" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png" />][instagram]
-<a target="_blank" href="mailto:harshitha.prakash22@gmail.com"><img align="left" alt="Harshitha P | Email" width="60px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<br>
+💼 Experience:
+- Software Development Intern at Bharat Electronics Limited
 
-### Languages and Tools:
+🚀 Skills:
+C, C++, Java, Python, JavaScript, HTML, CSS, React, Unix, Linux, TCP/IP, Socket Programming, APIs, AWS, Git, GitHub
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img align="left" alt="ML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
+🌱 I'm constantly learning and experimenting with new technologies. I believe in the power of collaboration and enjoy working with like-minded individuals to build something remarkable.
 
-<br />
-<br />
----
+Feel free to explore my repositories and projects. I'm always open to exciting opportunities and discussions!
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Harshitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshithap2000&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Harshitha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithap2000" />
-
-</details>
-
-[instagram]: https://www.instagram.com/_harshitha_poojary_/
-[linkedin]: https://linkedin.com/in/harshitha-p22
-[twitter]: https://twitter.com/harshithap22
-[portfolio]: https://github.com/harshithap2000
+📫 Let's connect:
+- LinkedIn: [https://linkedin.com/in/harshitha-p22/](https://linkedin.com/in/harshitha-p22/)
+- Email: [harshitha.prakash22@gmail.com](mailto:harshitha.prakash22@gmail.com)
